@@ -1,6 +1,6 @@
 # Chris's DWM build
 
-Taken from Luke Smith
+Taken from [Luke Smith's DWM build](https://github.com/LukeSmithxyz/dwm)
 
 > edit config.h
 > install `libxft-bgra` to fix emoji color problem
@@ -8,6 +8,8 @@ Taken from Luke Smith
 ```bash
 sudo make install
 ```
+
+You can view the shortcuts for it in the /usr/local/share/dwm/larbs.mom file
 
 ## Features
 
